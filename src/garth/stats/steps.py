@@ -1,6 +1,6 @@
 from typing import ClassVar
 
-from pydantic.dataclasses import dataclass
+from dataclasses import dataclass
 
 from ._base import Stats
 

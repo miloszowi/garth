@@ -1,7 +1,7 @@
 from datetime import date
 from typing import Dict
 
-from pydantic.dataclasses import dataclass
+from dataclasses import dataclass
 from typing_extensions import Self
 
 from .. import http

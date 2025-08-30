@@ -1,7 +1,7 @@
 import time
 from datetime import datetime
 
-from pydantic.dataclasses import dataclass
+from dataclasses import dataclass
 
 
 @dataclass

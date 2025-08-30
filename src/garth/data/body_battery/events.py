@@ -2,7 +2,7 @@ import logging
 from datetime import date, datetime
 from typing import Any
 
-from pydantic.dataclasses import dataclass
+from dataclasses import dataclass
 from typing_extensions import Self
 
 from ... import http

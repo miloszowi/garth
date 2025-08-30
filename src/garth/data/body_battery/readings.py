@@ -1,6 +1,6 @@
 from typing import Any
 
-from pydantic.dataclasses import dataclass
+from dataclasses import dataclass
 
 
 @dataclass
